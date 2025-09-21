@@ -1,4 +1,4 @@
-Proyecto 1: Clasificación con Fashion-MNIST 🧥👟
+# Proyecto 1: Clasificación con Fashion-MNIST 🧥👟
 
 Este proyecto explora y compara el rendimiento de varios algoritmos de Machine Learning para clasificar imágenes del dataset Fashion-MNIST. Se implementan modelos que van desde algoritmos clásicos hasta redes neuronales profundas.
 
