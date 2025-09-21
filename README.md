@@ -34,18 +34,18 @@ Se evaluaron los siguientes modelos:
 
 📁 Estructura del Proyecto
 
-.
-├── P1_F-MNIST.ipynb        # Notebook principal con el análisis y comparación de modelos.
-└── files/                  # Directorio con las implementaciones de cada modelo.
-    ├── CNN_F-MNIST.py
-    ├── Log_Reg_Proyecto_1.py
-    ├── MLP_F-MNIST.py
-    ├── RndmFrst.ipynb
-    └── SVM_F-MNIST.py
+    .
+    ├── P1_F-MNIST.ipynb        # Notebook principal con el análisis y comparación de modelos.
+    └── files/                  # Directorio con las implementaciones de cada modelo.
+        ├── CNN_F-MNIST.py
+        ├── Log_Reg_Proyecto_1.py
+        ├── MLP_F-MNIST.py
+        ├── RndmFrst.ipynb
+        └── SVM_F-MNIST.py
 
-    P1_F-MNIST.ipynb: Es el notebook principal. Contiene la carga de datos, el preprocesamiento, la ejecución de los modelos y la visualización de los resultados comparativos.
+P1_F-MNIST.ipynb: Es el notebook principal. Contiene la carga de datos, el preprocesamiento, la ejecución de los modelos y la visualización de los resultados comparativos.
 
-    files/: Contiene los scripts y notebooks individuales para la implementación de cada modelo.
+files/: Contiene los scripts y notebooks individuales para la implementación de cada modelo.
 
 🛠️ Requisitos
 
