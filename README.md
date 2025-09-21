@@ -63,3 +63,5 @@ Para ejecutar este proyecto, necesitarás tener instaladas las siguientes librer
 
     Jupyter Notebook
 
+Para ejecutar el modelo con mejor performance, correr test_execution.ipynb. Si desea agregar mas imagenes, agregarlas a /example_inputs
+
